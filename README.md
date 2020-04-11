@@ -14,3 +14,4 @@ The user can change the Count value to perform number of pings and/or can replac
 
 Here is how the result would look like:
 
+![image](https://user-images.githubusercontent.com/47313728/79039358-8b8f7680-7b95-11ea-9f0c-fc48beff7718.png)
